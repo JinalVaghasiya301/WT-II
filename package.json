@@ -1,11 +1,6 @@
 {
-  "name": "demo1",
-  "version": "1.0.0",
-  "description": "This is 1st application",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "jinal",
-  "license": "ISC"
+  "dependencies": {
+    "word-count": "^0.2.2",
+    "wordcount": "^1.1.1"
+  }
 }
